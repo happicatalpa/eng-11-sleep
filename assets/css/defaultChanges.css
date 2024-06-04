@@ -1,0 +1,8 @@
+/* Custom CSS to remove underline from title links */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    text-decoration: none;
+}
+
+h1 {
+    color: pink; 
+}
